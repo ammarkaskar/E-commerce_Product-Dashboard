@@ -16,29 +16,22 @@ It comes with analytics cards, virtualized product lists for 1000+ products, sea
 - **Responsive UI**: TailwindCSS styling and Lucide icons
 
 ## 📂 Project Structure
+```bash
 my-ecommerce-dashboard/
 ├─ public/
 │ └─ index.html
 ├─ src/
-│ ├─ App.jsx // Main app entry
-│ ├─ components/ // Add your components here
-│ ├─ contexts/ // Auth, Product, Notification contexts
+│ ├─ App.jsx 
+│ ├─ components/
+│ ├─ contexts/ 
 │ └─ ...
 ├─ package.json
 └─ README.md
-
-
+```
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-
-npm install
-# or
-yarn install
-
-npm start
-# or
-yarn start
+git clone https://github.com/<ammarkaskar>/<E-commerce_Product-Dashboard>.git
+cd <https://github.com/ammarkaskar/E-commerce_Product-Dashboard>
+```
